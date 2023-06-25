@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gulfidanozturk.github.io/reactgallery/static/css/main.42dd4665.css",
+    "main.js": "/gulfidanozturk.github.io/reactgallery/static/js/main.0f79c1a4.js",
+    "index.html": "/gulfidanozturk.github.io/reactgallery/index.html",
+    "main.42dd4665.css.map": "/gulfidanozturk.github.io/reactgallery/static/css/main.42dd4665.css.map",
+    "main.0f79c1a4.js.map": "/gulfidanozturk.github.io/reactgallery/static/js/main.0f79c1a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42dd4665.css",
+    "static/js/main.0f79c1a4.js"
+  ]
+}
