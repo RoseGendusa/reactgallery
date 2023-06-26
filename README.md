@@ -1,17 +1,5 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+Tour Places
 
-# RP-02 : Tour Places
-
-## Description
-
-Project aims to create a tour places app.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
-## Project Skeleton
 
 ```
 002-Tour Project(folder)
